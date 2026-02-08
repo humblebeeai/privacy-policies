@@ -1,6 +1,6 @@
 # HB DO — Privacy Policy
 
-**Last updated:** February 2, 2026
+**Last updated:** February 8, 2026
 
 HB DO ("we," "our," or "the app") is committed to protecting your privacy. This policy describes how we handle information when you use the HB DO iOS application.
 
@@ -42,9 +42,11 @@ Your todos and settings are used only to provide the app's features (task list, 
 
 ---
 
-## 4. Data Sharing
+## 4. Data Sharing and Tracking
 
 We do not sell your task data or personal information. Your todo content stays on your device unless you share your device or backup (e.g., iCloud backup) with others.
+
+**We do not track you.** HB DO does not collect data for tracking purposes, does not link app data with third-party data for advertising, and does not share data with data brokers. The app does not use identifiers or data for cross-app or cross-site tracking.
 
 ---
 
